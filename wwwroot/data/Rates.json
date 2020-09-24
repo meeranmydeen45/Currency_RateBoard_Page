@@ -1,0 +1,130 @@
+[
+  {
+    "Country": "USA",
+    "Image": "~/Images/USA.png",
+    "Code": "USD",
+    "FCBuy": "3.67",
+    "FCSale": "3.68",
+    "TFRate": "56"
+  },
+  {
+    "Country": "AUSTRALIA",
+    "Image": "~/Images/AUSTRALIA.png",
+    "Code": "AUD",
+    "FCBuy": "2.47",
+    "FCSale": "2.56",
+    "TFRate": "56"
+  },
+  {
+    "Country": "BRITAN",
+    "Image": "~/Images/GB.png",
+    "Code": "GBP",
+    "FCBuy": "4.67",
+    "FCSale": "4.78",
+    "TFRate": "56"
+  },
+  {
+    "Country": "BAHRAIN",
+    "Image": "~/Images/BAHRAIN.jpg",
+    "Code": "BHD",
+    "FCBuy": "9.63",
+    "FCSale": null,
+    "TFRate": "56"
+  },
+  {
+    "Country": "BANGLADESH",
+    "Image": "~/Images/BDT.png",
+    "Code": "BDT",
+    "FCBuy": "0.0425",
+    "FCSale": "0.045",
+    "TFRate": null
+  },
+  {
+    "Country": "CANADA",
+    "Image": "~/Images/CANADA.jpg",
+    "Code": "CAD",
+    "FCBuy": "2.72",
+    "FCSale": "2.81",
+    "TFRate": null
+  },
+  {
+    "Country": "EURO",
+    "Image": "~/Images/EURO.png",
+    "Code": "EUR",
+    "FCBuy": "3.99",
+    "FCSale": "4.06",
+    "TFRate": null
+  },
+  {
+    "Country": "EGYPT",
+    "Image": "~/Images/EGYPT.jpg",
+    "Code": "EGP",
+    "FCBuy": "0.17",
+    "FCSale": "0.24",
+    "TFRate": null
+  },
+  {
+    "Country": "INDIA",
+    "Image": "~/Images/INDIA.png",
+    "Code": "INR",
+    "FCBuy": "0.045",
+    "FCSale": null,
+    "TFRate": null
+  },
+  {
+    "Country": "KUWAIT",
+    "Image": "~/Images/KUWAIT.png",
+    "Code": "KWD",
+    "FCBuy": "0.045",
+    "FCSale": "0.051",
+    "TFRate": null
+  },
+  {
+    "Country": "NEPAL",
+    "Image": "~/Images/NEPAL.jpg",
+    "Code": "NPR",
+    "FCBuy": "0.045",
+    "FCSale": "0.051",
+    "TFRate": null
+  },
+  {
+    "Country": "OMAN",
+    "Image": "~/Images/OMAN.png",
+    "Code": "OMR",
+    "FCBuy": "0.045",
+    "FCSale": "0.051",
+    "TFRate": null
+  },
+  {
+    "Country": "PHILIPPINES",
+    "Image": "~/Images/PHP.png",
+    "Code": "PHP",
+    "FCBuy": "0.045",
+    "FCSale": "0.051",
+    "TFRate": null
+  },
+  {
+    "Country": "PAKISTAN",
+    "Image": "~/Images/PAK.png",
+    "Code": "PKR",
+    "FCBuy": "0.045",
+    "FCSale": "0.051",
+    "TFRate": null
+  },
+  {
+    "Country": "SWISS",
+    "Image": "~/Images/SWISS.png",
+    "Code": "CHF",
+    "FCBuy": "0.045",
+    "FCSale": "0.051",
+    "TFRate": null
+  },
+  {
+    "Country": "SAUDIA",
+    "Image": "~/Images/SAUDI.png",
+    "Code": "SAR",
+    "FCBuy": "0.045",
+    "FCSale": "0.051",
+    "TFRate": null
+  }
+]
